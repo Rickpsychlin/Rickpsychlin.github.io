@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Yucheng Liu</title>
+    <link>https://Rickpsychlin.github.io/project/</link>
+      <atom:link href="https://Rickpsychlin.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Rickpsychlin.github.io/media/icon_hu402a8a7b1ad5e3e69af461daf25c730a_5810_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://Rickpsychlin.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Conflict Adaptation and Reduced Relative Clause Ambiguities</title>
+      <link>https://Rickpsychlin.github.io/project/example/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://Rickpsychlin.github.io/project/example/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Please see more details in our &lt;a href=&#34;https://Rickpsychlin.github.io/uploads/Amlap_Pre_final.pdf&#34; target=&#34;_blank&#34;&gt;Poster&lt;/a&gt; presented in AMlap 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Executive Function Adaptation and Syntactic Priming</title>
+      <link>https://Rickpsychlin.github.io/project/stroop/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://Rickpsychlin.github.io/project/stroop/</guid>
+      <description>&lt;p&gt;Previous studies suggest that an executive functioning (EF) conflict trial (e.g. incongruent Stroop trial) can facilitate revision of a following garden path sentence through conflict adaptation (Hussey &amp;amp; Novick, 2012; 2016; Hsu et al., 2014). The goal of the present study was to a) replicate this adaptation using the reduced relative clause (RR) versus main clause (MC) ambiguities and b) investigate whether a preceding EF trial can modulate priming effects. If the unintended MC reading of an RR sentence can be more inhibited following an incongruent (harder) EF trial, then processing a following RR sentence should be even easier than when that EF trial is congruent (easier). Furthermore, an MC sentence following an incongruent EF trial and RR sentence should be harder to process since the MC reading is more inhibited. We conducted two studies (N1 = 56, N2 = 39) using different versions of a Stroop task in a word-by-word self-paced reading paradigm. Congruent and incongruent Stroop trials were interleaved with prime-target sentence pairs (Tables 1 and 2). Contrary to our prediction, reading times (RTs) starting from the disambiguating “by”-phrase of RR prime sentences were not affected by preceding Stroop trial congruency. RR-primed RR target sentences showed longer residual RTs and smaller priming effects at the “by”-phrase following incongruent over congruent Stroop trials (Figure 1). RR-primed MC target sentences showed no significant difference in residual RTs in either experiment. These findings provide no evidence of EF conflict adaptation. We propose that these results can be explained by increased monitoring.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Please see more details in our &lt;a href=&#34;https://Rickpsychlin.github.io/uploads/Amlap_poster_2018.pdf&#34; target=&#34;_blank&#34;&gt;Poster&lt;/a&gt; presented in AMlap 2018 and &lt;a href=&#34;https://Rickpsychlin.github.io/uploads/Amlap_2019.pdf&#34; target=&#34;_blank&#34;&gt;Supplement Material&lt;/a&gt;  for AMlap 2019 abstract above.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
